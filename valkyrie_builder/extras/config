@@ -1,0 +1,17 @@
+#/usr/bin/bash
+
+# Define common variables
+WORKPATH=/home/valkyrie-builder
+ISOPATH=/home/valkyrie-builder/ISO
+FSPATH=/home/valkyrie-builder/FileSystem
+
+# Define Extract variables
+MOUNTPATH=/media/ISO
+YOURARCH=$(uname -m)
+
+# Define Wizard variables
+APPS=/home/valkyrie-builder/configs/PACKAGES
+
+#Kernel Version
+
+VERSIONPOINT=6.17.1-noir

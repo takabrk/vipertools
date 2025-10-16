@@ -1,0 +1,4 @@
+#!/bin/sh
+sudo echo $1 > /sys/block/sda/queue/scheduler
+cat /sys/block/sda/queue/scheduler
+echo "changed " $1
