@@ -1,7 +1,7 @@
 Linux application "Viper Tools"
 Web site URL : https://note.com/vsrx
 Created by takamitsu_h
-Updated November 1,2025
+Updated December 1,2025
 
 詳しいリファレンスは、以下で公開しています。
 
@@ -18,8 +18,8 @@ $ sudo apt install open-jtalk open-jtalk-mecab-naist-jdic mecab
 $ sudo pip install mecab-python3
 
 [動作環境]
-・Ubuntu 22.04.5 LTS
-・Python 3.10,Python2.7
+・Ubuntu 24.04.3 LTS
+・Python 3.12.3
 ・GTK+3
 ・libglade
 ・xfce4-terminal
