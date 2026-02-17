@@ -194,7 +194,7 @@
                   <object class="GtkEntry" id="description">
                     <property name="visible">True</property>
                     <property name="can-focus">True</property>
-                    <property name="text" translatable="yes">Ubuntu 24.04.3 LTS based</property>
+                    <property name="text" translatable="yes">Ubuntu 24.04.4 LTS based</property>
                   </object>
                   <packing>
                     <property name="expand">False</property>
