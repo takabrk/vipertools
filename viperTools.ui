@@ -241,7 +241,7 @@
                   <object class="GtkEntry" id="kernel_version">
                     <property name="visible">True</property>
                     <property name="can-focus">True</property>
-                    <property name="text" translatable="yes">6.19.5-noir-bore</property>
+                    <property name="text" translatable="yes">6.19.6-noir-bore</property>
                   </object>
                   <packing>
                     <property name="expand">False</property>
@@ -343,7 +343,7 @@
                 <property name="can-focus">False</property>
                 <property name="label" translatable="yes">Viper Tools
 Created by takamitsu_h
-March 2,2026</property>
+March 7,2026</property>
               </object>
               <packing>
                 <property name="expand">False</property>
