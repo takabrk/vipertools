@@ -1,7 +1,7 @@
 Linux application "Viper Tools"
 Web site URL : https://note.com/vsrx
 Created by takamitsu_h
-Updated May 17,2026
+Updated June 1,2026
 
 詳しいリファレンスは、以下で公開しています。
 
