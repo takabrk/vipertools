@@ -47,7 +47,7 @@
                   <object class="GtkEntry" id="name">
                     <property name="visible">True</property>
                     <property name="can-focus">True</property>
-                    <property name="text" translatable="yes">UBOLD-OP</property>
+                    <property name="text" translatable="yes">UBOLD</property>
                     <property name="placeholder-text" translatable="yes">ubuntu</property>
                   </object>
                   <packing>
@@ -72,7 +72,7 @@
                   <object class="GtkEntry" id="version">
                     <property name="visible">True</property>
                     <property name="can-focus">True</property>
-                    <property name="text" translatable="yes">202609</property>
+                    <property name="text" translatable="yes">K727</property>
                     <property name="placeholder-text" translatable="yes">20.04</property>
                   </object>
                   <packing>
@@ -146,7 +146,7 @@
                   <object class="GtkEntry" id="level">
                     <property name="visible">True</property>
                     <property name="can-focus">True</property>
-                    <property name="text" translatable="yes">15</property>
+                    <property name="text" translatable="yes">22</property>
                   </object>
                   <packing>
                     <property name="expand">False</property>
@@ -343,7 +343,7 @@
                 <property name="can-focus">False</property>
                 <property name="label" translatable="yes">Viper Tools
 Created by takamitsu_h
-September 23,2026</property>
+September 27,2026</property>
               </object>
               <packing>
                 <property name="expand">False</property>
