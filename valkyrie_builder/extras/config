@@ -14,4 +14,4 @@ APPS=/home/valkyrie-builder/configs/PACKAGES
 
 #Kernel Version
 
-VERSIONPOINT=7.3.1-noir
+VERSIONPOINT=7.3.3-noir
